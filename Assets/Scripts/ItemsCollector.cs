@@ -4,16 +4,21 @@ using UnityEngine.UI;
 
 public class ItemsCollector : MonoBehaviour
 {
-    int kiwi = 0;
-
-    [SerializeField] Text KiwiText; 
+   
+    [SerializeField] Text KiwiText;
+    [SerializeField] AudioSource collectAudio;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Kiwi"))
         {
+            collectAudio.Play();
             Destroy(collision.gameObject);
-            kiwi++;
-            KiwiText.text = "Kiwi : " + kiwi; 
+            GameManager.Instance.kiwis++;
+            TextUpdate();
         }
+    }
+    public void TextUpdate()
+    {
+        KiwiText.text = "Kiwi : " + GameManager.Instance.kiwis;
     }
 }

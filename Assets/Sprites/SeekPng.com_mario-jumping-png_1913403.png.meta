@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: b7b6e5a1536b7be4f8bb9fc181649274
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 315
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac70b53c5cb9b479874a446637711c
+      internalID: 295091982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 317
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848a0618253ec44cbcabdb9d8c8e545
+      internalID: 909861259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 316
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54adef48ab647dd4f87a7e275e66a969
+      internalID: -1915097515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 316
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d3765705a0bf4a842906c6cb6bb4f
+      internalID: 679054035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 317
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a26e2605306fb488f6d2f53a5faa83
+      internalID: -1331730934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 315
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2593f108743aa740a579c8e37786ace
+      internalID: 931999481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 317
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da62f8ec02b557b4f8bf7707e23abfbf
+      internalID: -1861874500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 316
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38116995c8e273243ae1759f28caae28
+      internalID: -1325948258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 316
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b5c4694768c943912e24cc7a4d546
+      internalID: 1407434490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 317
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cac500736721d4f9fa20dc5062e14a
+      internalID: 1980732923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c4b17d1907c84eb77a6814eeeaf94
+      internalID: 613374709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 272
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a8f504b5902e4f90c8c4fbd93a79a
+      internalID: -1181671887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 271
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c8cb3e26af9940ab4bb98857b0006
+      internalID: -951182618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da7ffebb0841d4f8d8d739837acdc3
+      internalID: -2017461765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29826b3939d97a141b30871d1052b887
+      internalID: -1664565627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae2348e2a0063439c6e441a5c9c4a7
+      internalID: -351124548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c6c2fec02f1541a870baff8f24007
+      internalID: -1968466549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 271
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948a437203531924abb5f7f4ea0e83ea
+      internalID: -1230670319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 272
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c80fc86d57a674cb0b2b0e03d52d12
+      internalID: 2035771063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 272
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e9a32f4635984eaf7f196ec4457e5
+      internalID: -1651935274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37973443e387474faa7c5c64b6317db
+      internalID: -1289897645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 226
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f79d51a775ab14e9189583ebf081d7
+      internalID: 549935067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 227
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e7c351ac22e64cbedae7f8aa696df
+      internalID: -1913558625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 226
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3f8d6e12d5ff4ca59bb24e14fc285
+      internalID: -1891058236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 226
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b06f31a303474a95d2e2f52c8f6f3
+      internalID: 152762672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d653f0cacce984fb2af3435da39756
+      internalID: -764865005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 226
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c33267cd344c746a2feb586f66275d
+      internalID: -1015326853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 227
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ebdc3ef2a74b842a7ff8907ad32609
+      internalID: -628809186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 226
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec8aee1e91afb4aa24251c92f718b3
+      internalID: 453828051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_29
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 226
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1ca503d767b5f4f8021f476cd849d8
+      internalID: -1758449613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a938567adc134fa51ee964224fffe
+      internalID: 244743116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 180
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffea5b522e677c498c39c4eb2ee4fa6
+      internalID: -1408434586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 181
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0778c7c0ceb4d4cafae965fcb373fa
+      internalID: -686988296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 182
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f83728ba9e4494db71bd496f15c0a2
+      internalID: -400083813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103b0582e7fc264dab81c3002a84c4c
+      internalID: -440383213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 180
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6fdcf544169744db77ade0a47b95ee
+      internalID: 1421316165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f0e8d5da635045bc601830e20f081
+      internalID: -1863985152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 181
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa4e88b7e0b9a34292d8a708082ae8d
+      internalID: -1618435277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 182
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5ce8120e0cb94c868edbc4580eec9
+      internalID: 1437838814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 182
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c7429c36874e4ea864591c1ab60b8
+      internalID: -1652884234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8c393905fb6546af1d7912267045c
+      internalID: 150571030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 137
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa04082848d3e042918213d70bdb2b4
+      internalID: -2097878151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651dac53d35dfa34fb101fe2e2b72ef5
+      internalID: 160353526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 137
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c9c533cb10a04b9f768e5767762a1
+      internalID: 1857742637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 137
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118498bb3c2bb3e4aa3dc0850839999e
+      internalID: -2080859332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 136
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ad7349e2874742b6233f0015ca357
+      internalID: 1269418462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 137
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915160881c0a0384daeb0943023c2526
+      internalID: 2012214117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 138
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d07d482099464bba27b1a28411def
+      internalID: 2071873343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 137
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ec4a5793e0ae4599475069c1cd061
+      internalID: -817736316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 137
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f199d3915e19024b87dc5ede6a8ab2e
+      internalID: -1512629722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9d3dc560a8a240a3b60851cab70af
+      internalID: -200481474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9372bb034be26445a6a1b094db7314e
+      internalID: 1007196378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7040fce4a11d647a5dc5ee805a571b
+      internalID: -1373589697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 93
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892635c3152df0d47a3eff01cdfb8e37
+      internalID: -910828138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 92
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9de9abbd26a8439a2013337fb8419
+      internalID: 871719584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 92
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3818dcd047e944bb382e2b72e38507
+      internalID: 954614913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_56
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 92
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a93ff18c0e3ac45a99065378ba3184
+      internalID: -848243611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 93
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c86fcf0000b642ac4b2da0804c149
+      internalID: 307694966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a82ee30d47ef40b98c40a4ce9a200
+      internalID: -1002998226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bcfa7f803bbe479ab20066404baf4
+      internalID: 735738782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 46
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a40dbb847aaa4f45aa2856a1e54a688
+      internalID: 2001390348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f868489e235464d90caa1afb2443ae
+      internalID: 1511018752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 46
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab1acda803b7340899efc4c376595f
+      internalID: 1021450247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_63
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486170cdb8914b4fba60698e424e3f8
+      internalID: 1718343077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 46
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4fd8bc79c2a040897cafa118e4b06
+      internalID: -749607294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 46
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2a5ceb9bcce743b6b0932bae618f2
+      internalID: -207476137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 46
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc308d4994d4d2746a89a5a8a335f4ab
+      internalID: -886813838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 46
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17153c65e9a674895bafe6bd4f2007
+      internalID: -1140150383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c70b8fe9ae1994aae764c2b792359c
+      internalID: -1475935260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64026f8119d75b44bf376eba501eefa
+      internalID: 574691708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f82ff8a42b1df4eab3f7fe1e20b031
+      internalID: -458418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c9b73b0fa4554b99ecdfc25fe6651
+      internalID: 1206582647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_72
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c10357202f084b8f7e5863fc21c80
+      internalID: 19729644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a12a11b23756441aaf5841811f2b69
+      internalID: -2113735806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a0898c97242e42901b4fde63beeac
+      internalID: -215565157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd7ae010b27f24fb37eeb5bc8ab7a3
+      internalID: -1324375387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_76
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c03e30538729b46b5e3dd466b958fe
+      internalID: 668881050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_mario-jumping-png_1913403_77
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946a114d0ea0a942af315832f19c5a1
+      internalID: 1663589529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SeekPng.com_mario-jumping-png_1913403_0: 295091982
+      SeekPng.com_mario-jumping-png_1913403_1: 909861259
+      SeekPng.com_mario-jumping-png_1913403_10: 613374709
+      SeekPng.com_mario-jumping-png_1913403_11: -1181671887
+      SeekPng.com_mario-jumping-png_1913403_12: -951182618
+      SeekPng.com_mario-jumping-png_1913403_13: -2017461765
+      SeekPng.com_mario-jumping-png_1913403_14: -1664565627
+      SeekPng.com_mario-jumping-png_1913403_15: -351124548
+      SeekPng.com_mario-jumping-png_1913403_16: -1968466549
+      SeekPng.com_mario-jumping-png_1913403_17: -1230670319
+      SeekPng.com_mario-jumping-png_1913403_18: 2035771063
+      SeekPng.com_mario-jumping-png_1913403_19: -1651935274
+      SeekPng.com_mario-jumping-png_1913403_2: -1915097515
+      SeekPng.com_mario-jumping-png_1913403_20: -1289897645
+      SeekPng.com_mario-jumping-png_1913403_21: 549935067
+      SeekPng.com_mario-jumping-png_1913403_22: -1913558625
+      SeekPng.com_mario-jumping-png_1913403_23: -1891058236
+      SeekPng.com_mario-jumping-png_1913403_24: 152762672
+      SeekPng.com_mario-jumping-png_1913403_25: -764865005
+      SeekPng.com_mario-jumping-png_1913403_26: -1015326853
+      SeekPng.com_mario-jumping-png_1913403_27: -628809186
+      SeekPng.com_mario-jumping-png_1913403_28: 453828051
+      SeekPng.com_mario-jumping-png_1913403_29: -1758449613
+      SeekPng.com_mario-jumping-png_1913403_3: 679054035
+      SeekPng.com_mario-jumping-png_1913403_30: 244743116
+      SeekPng.com_mario-jumping-png_1913403_31: -1408434586
+      SeekPng.com_mario-jumping-png_1913403_32: -686988296
+      SeekPng.com_mario-jumping-png_1913403_33: -400083813
+      SeekPng.com_mario-jumping-png_1913403_34: -440383213
+      SeekPng.com_mario-jumping-png_1913403_35: 1421316165
+      SeekPng.com_mario-jumping-png_1913403_36: -1863985152
+      SeekPng.com_mario-jumping-png_1913403_37: -1618435277
+      SeekPng.com_mario-jumping-png_1913403_38: 1437838814
+      SeekPng.com_mario-jumping-png_1913403_39: -1652884234
+      SeekPng.com_mario-jumping-png_1913403_4: -1331730934
+      SeekPng.com_mario-jumping-png_1913403_40: 150571030
+      SeekPng.com_mario-jumping-png_1913403_41: -2097878151
+      SeekPng.com_mario-jumping-png_1913403_42: 160353526
+      SeekPng.com_mario-jumping-png_1913403_43: 1857742637
+      SeekPng.com_mario-jumping-png_1913403_44: -2080859332
+      SeekPng.com_mario-jumping-png_1913403_45: 1269418462
+      SeekPng.com_mario-jumping-png_1913403_46: 2012214117
+      SeekPng.com_mario-jumping-png_1913403_47: 2071873343
+      SeekPng.com_mario-jumping-png_1913403_48: -817736316
+      SeekPng.com_mario-jumping-png_1913403_49: -1512629722
+      SeekPng.com_mario-jumping-png_1913403_5: 931999481
+      SeekPng.com_mario-jumping-png_1913403_50: -200481474
+      SeekPng.com_mario-jumping-png_1913403_51: 1007196378
+      SeekPng.com_mario-jumping-png_1913403_52: -1373589697
+      SeekPng.com_mario-jumping-png_1913403_53: -910828138
+      SeekPng.com_mario-jumping-png_1913403_54: 871719584
+      SeekPng.com_mario-jumping-png_1913403_55: 954614913
+      SeekPng.com_mario-jumping-png_1913403_56: -848243611
+      SeekPng.com_mario-jumping-png_1913403_57: 307694966
+      SeekPng.com_mario-jumping-png_1913403_58: -1002998226
+      SeekPng.com_mario-jumping-png_1913403_59: 735738782
+      SeekPng.com_mario-jumping-png_1913403_6: -1861874500
+      SeekPng.com_mario-jumping-png_1913403_60: 2001390348
+      SeekPng.com_mario-jumping-png_1913403_61: 1511018752
+      SeekPng.com_mario-jumping-png_1913403_62: 1021450247
+      SeekPng.com_mario-jumping-png_1913403_63: 1718343077
+      SeekPng.com_mario-jumping-png_1913403_64: -749607294
+      SeekPng.com_mario-jumping-png_1913403_65: -207476137
+      SeekPng.com_mario-jumping-png_1913403_66: -886813838
+      SeekPng.com_mario-jumping-png_1913403_67: -1140150383
+      SeekPng.com_mario-jumping-png_1913403_68: -1475935260
+      SeekPng.com_mario-jumping-png_1913403_69: 574691708
+      SeekPng.com_mario-jumping-png_1913403_7: -1325948258
+      SeekPng.com_mario-jumping-png_1913403_70: -458418745
+      SeekPng.com_mario-jumping-png_1913403_71: 1206582647
+      SeekPng.com_mario-jumping-png_1913403_72: 19729644
+      SeekPng.com_mario-jumping-png_1913403_73: -2113735806
+      SeekPng.com_mario-jumping-png_1913403_74: -215565157
+      SeekPng.com_mario-jumping-png_1913403_75: -1324375387
+      SeekPng.com_mario-jumping-png_1913403_76: 668881050
+      SeekPng.com_mario-jumping-png_1913403_77: 1663589529
+      SeekPng.com_mario-jumping-png_1913403_8: 1407434490
+      SeekPng.com_mario-jumping-png_1913403_9: 1980732923
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
